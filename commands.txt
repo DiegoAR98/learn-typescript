@@ -10,3 +10,9 @@ Run the generated JavaScript file with Node.js:
 
 
 node index.js
+
+npm install @faker-js/faker@7.6.0
+
+npx parcel index.html
+
+npm install @types/faker
