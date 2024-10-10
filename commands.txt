@@ -16,3 +16,6 @@ npm install @faker-js/faker@7.6.0
 npx parcel index.html
 
 npm install @types/faker
+
+AIzaSyBNLrJhOMz6idD05pzfn5lhA-TAw-mAZCU
+
