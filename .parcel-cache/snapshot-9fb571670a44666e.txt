@@ -3313,7 +3313,7 @@
 131C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\node_modules\@faker-js\faker\dist\types\locales\en\internet\emoji.d.ts133730589686755152 0
 138C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\node_modules\@faker-js\faker\dist\types\locales\hy\address\street_suffix.d.ts133730589710509080 0
 130C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\node_modules\@faker-js\faker\dist\types\locales\fr_CH\date\index.d.ts133730589695793234 0
-81C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\maps\dist\index.html133730575880073194 0
+81C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\maps\dist\index.html133730616792009206 0
 120C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\node_modules\@faker-js\faker\dist\types\locales\hu\commerce133730589707472587 1
 104C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\fetchjson\node_modules\mime-db\package.json133703920728984096 0
 119C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\node_modules\@faker-js\faker\dist\types\locales\hu\finance133730589712760539 1
@@ -6379,15 +6379,13 @@
 92C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\node_modules\.bin\ts-script.ps1133721058323522036 0
 82C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\node_modules\.bin\tsc133720946923066040 0
 86C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\node_modules\.bin\tsc.ps1133720946923066040 0
-70C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\maps\dist133730575880529203 1
+70C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\maps\dist133730616848639583 1
 76C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\maps\index.html133730575125684257 0
 69C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\maps\src133730578749857524 1
 80C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\maps\src\Company.ts133730578749857524 0
-78C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\maps\src\index.ts133730575808198698 0
+78C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\maps\src\index.ts133730616894690528 0
 76C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\maps\src\Map.ts133730578664254642 0
-77C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\maps\src\User.ts133730593180792313 0
-88C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\maps\dist\index.4990598b.js133730575880489160 0
-92C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\maps\dist\index.4990598b.js.map133730575880524156 0
+77C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\maps\src\User.ts133730614214199554 0
 92C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\fetchjson\node_modules\asynckit133703920728994067 1
 100C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\fetchjson\node_modules\follow-redirects133703920728974153 1
 98C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\fetchjson\node_modules\proxy-from-env133703920728984096 1
@@ -6472,3 +6470,5 @@
 94C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\features\annotations\functions.ts133720047515791885 0
 92C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\features\annotations\objects.ts133720047515801859 0
 94C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\features\annotations\variables.ts133720047515801859 0
+88C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\maps\dist\index.4990598b.js133730616848434766 0
+92C:\Users\diego\OneDrive\Documentos\Bootcamp\learn-typescript\maps\dist\index.4990598b.js.map133730616848619625 0
