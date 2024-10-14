@@ -17,5 +17,4 @@ npx parcel index.html
 
 npm install @types/faker
 
-AIzaSyBNLrJhOMz6idD05pzfn5lhA-TAw-mAZCU
 
