@@ -18,3 +18,10 @@ npx parcel index.html
 npm install @types/faker
 
 
+directiores on the ts config from source and destination 
+
+"rootDir"
+and 
+"outDir"
+
+tsc -w (watcher for compiles)
