@@ -1,7 +1,5 @@
 Compile the TypeScript code to JavaScript:
 
-
-
 tsc index.ts
 
 This will generate an index.js file based on your TypeScript.
